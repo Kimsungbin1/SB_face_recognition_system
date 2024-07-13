@@ -25,7 +25,7 @@
 
 1. 이 저장소를 클론합니다:
    ```
-   git clone https://github.com/your-username/face-recognition-system.git
+   git clone [https://github.com/your-username/face-recognition-system.git](https://github.com/Kimsungbin1/SB_face_recognition_system.git)
    cd face-recognition-system
    ```
 
